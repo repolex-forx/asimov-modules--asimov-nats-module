@@ -1,0 +1,11 @@
+{
+  "org": "asimov-modules",
+  "repo": "asimov-nats-module",
+  "versions": [
+    {
+      "commit": "f2642496ac14f18007ac990546661426882e3119",
+      "tag": "master",
+      "parsed_at": "2026-09-27T19:44:00.004849+00:00"
+    }
+  ]
+}
